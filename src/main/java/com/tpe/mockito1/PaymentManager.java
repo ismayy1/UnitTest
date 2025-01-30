@@ -4,7 +4,7 @@ public class PaymentManager {
 
     public String getPaymentStatus(int paymentId) {
         if (paymentId == 123) {
-            return "SUCCESS";
+            return "SSSSS";
         } else if (paymentId == 456) {
             return "FAILED";
         } else {
